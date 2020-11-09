@@ -1,0 +1,146 @@
+.jumbotron {
+  background-image: url(../images/jumbotron_back.png);
+  box-shadow: 0 0 8px 8px black inset;
+  color: white;
+  margin-top: 50px;
+  margin-right: 0px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+}
+
+footer {
+  background-image: url(../images/jumbotron_back.png);
+  box-shadow: 0 0 8px 8px black inset;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+  margin-top: 10px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px; }
+
+.btn-primary {
+  background-color: transparent; 
+  border-color: thistle;
+}
+.btn-primary.focus, .btn-primary:focus {
+  background-color: transparent;
+  border-color: thistle;
+  box-shadow: 0 0 0 0.2rem thistle;
+}
+
+.card-albums {
+  flex: 1 300px;
+  padding-top: 2px;
+  padding-right: 0px;
+  padding-bottom: 4px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-right: 2px;
+  margin-bottom: 0px;
+  margin-left: 2px; }
+
+.btn-listen {
+  width: 80%;
+  border-radius: 20px; 
+  position: relative;
+  background-color: gray;
+}
+
+.footer-address-icon {
+  padding-right: 10px; }
+
+.card-img-top {
+  padding: 8px; }
+.card {
+  box-shadow: 0 0 8px 8px black inset;
+  border: none;
+}
+
+.img-prinpal {
+  width: 100%;
+  padding: 8px 0px 8px 0px; }
+
+.tab-content {
+  padding-top: 10px; }
+
+.btn-colla {
+  padding: 8px; }
+body {
+  background-image: url(../images/breadcrumb_background.png);
+}
+.breadcrumb {
+  background-color: transparent;
+}
+#Profile, #Academic_Studies, #Skills {
+  color: thistle;
+}
+.row {
+  padding-top: 10px;
+}
+.carousel-inner {
+  padding-bottom: 30px;
+}
+.carousel-item { 
+  height: 400px;
+}
+.carousel-item img {
+  width: 100%;
+  height: 100% !important;
+  object-fit: contain;
+}
+.button-card {
+  text-align: center;
+  padding-bottom: 1rem;
+}
+img {
+  border-radius: 20px;
+}
+video {
+  width: 100%;
+}
+#social-git {
+  width: 40px;
+}
+#social-link {
+  width: 30px;
+}
+#social-insta {
+  width: 40px;
+}
+#social-youtube {
+  width: 40px;
+}
+.btn-social {
+  border-radius: 10px;
+  background-color: black;
+  border: none;
+}
+.social {
+  align-items: baseline;
+  text-align: center;
+  padding-top: 15px;
+  padding-left: 40px;
+}
+address {
+  color: black;
+}
+.footnav {
+  padding-right: 40px;
+  align-items: center;
+  padding-top: 40px;
+}
+.footnav button {
+  font-size: 1rem;
+}
+.projects {
+  color: white;
+}
+.info-btn {
+  padding-top: 20px;
+  justify-content: center;
+}
+.info {
+  text-align: center;
+}
