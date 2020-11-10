@@ -1,5 +1,5 @@
 .jumbotron {
-  background-image: url(../images/jumbotron_back.png);
+  background-color: rgb(20, 33, 61);
   box-shadow: 0 0 8px 8px black inset;
   color: white;
   margin-top: 50px;
@@ -9,7 +9,7 @@
 }
 
 footer {
-  background-image: url(../images/jumbotron_back.png);
+  background-color: rgb(20, 33, 61);
   box-shadow: 0 0 8px 8px black inset;
   padding-top: 10px;
   padding-right: 10px;
@@ -21,8 +21,8 @@ footer {
   margin-left: 0px; }
 
 .btn-primary {
-  background-color: transparent; 
-  border-color: thistle;
+  background-color: rgb(252, 163, 17); 
+  border: none;
 }
 .btn-primary.focus, .btn-primary:focus {
   background-color: transparent;
@@ -45,7 +45,7 @@ footer {
   width: 80%;
   border-radius: 20px; 
   position: relative;
-  background-color: gray;
+  background-color:rgb(20, 33, 61);
 }
 
 .footer-address-icon {
@@ -56,6 +56,7 @@ footer {
 .card {
   box-shadow: 0 0 8px 8px black inset;
   border: none;
+  background-color: rgb(229, 229, 229);
 }
 
 .img-prinpal {
@@ -66,15 +67,17 @@ footer {
   padding-top: 10px; }
 
 .btn-colla {
-  padding: 8px; }
+  padding: 8px;
+  color: black;
+}
 body {
-  background-image: url(../images/breadcrumb_background.png);
+  background-color: rgb(0, 0, 0);
 }
 .breadcrumb {
   background-color: transparent;
 }
 #Profile, #Academic_Studies, #Skills {
-  color: thistle;
+  color: white;
 }
 .row {
   padding-top: 10px;
@@ -124,7 +127,7 @@ video {
   padding-left: 40px;
 }
 address {
-  color: black;
+  color: white;
 }
 .footnav {
   padding-right: 40px;
@@ -143,4 +146,12 @@ address {
 }
 .info {
   text-align: center;
+}
+h3 {
+  padding-left: 8px;
+}
+.btn-outline-info {
+  background-color: rgb(252, 163, 17);
+  color: black;
+  border: none;
 }
