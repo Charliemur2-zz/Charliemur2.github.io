@@ -10,7 +10,7 @@
 
 footer {
   background-color: rgb(20, 33, 61);
-  box-shadow: 0 0 8px 8px black inset;
+  box-shadow: 0 0 5px 8px black inset;
   padding-top: 10px;
   padding-right: 10px;
   padding-bottom: 0px;
@@ -54,7 +54,7 @@ footer {
 .card-img-top {
   padding: 8px; }
 .card {
-  box-shadow: 0 0 8px 8px black inset;
+  box-shadow: 0 0 4px 8px black inset;
   border: none;
   background-color: rgb(229, 229, 229);
 }
